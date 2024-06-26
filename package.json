@@ -4,8 +4,9 @@
   "description": "Repositório do curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev", 
-    "lint:check": "prettier --check ."
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "author": "",
   "license": "MIT",
